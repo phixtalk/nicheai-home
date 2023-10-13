@@ -14,11 +14,13 @@ export const Herostart = () => {
               NicheAI
             </div>
             <h1 className="display-4 text-white mb-4 animated slideInRight">
-              Personal AI companion for Your Business
+              AI companion for Your Business
             </h1>
             <p className="text-white mb-4 animated slideInRight">
-              Empowering businesses with advanced data analysis and insights
-              through a user-friendly and conversational interface
+              Unleash the power of large language models through a user-friendly
+              and conversational interface
+              {/* Empowering businesses with advanced data analysis and insights
+              through a user-friendly and conversational interface */}
             </p>
             <a
               href="https://nicheai-three.vercel.app/sign-in"
